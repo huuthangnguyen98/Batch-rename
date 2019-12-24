@@ -1,0 +1,19 @@
+﻿<Window x:Class="Batch_Rename.NewCaseDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Batch_Rename"
+        mc:Ignorable="d"
+        Title="New Case" Width="250" Height="180" WindowStartupLocation="CenterScreen">
+    <Canvas Name="newCaseControl" Background="LightYellow" >
+        <Button IsDefault="True" Content="OK" Width="60" Canvas.Right="4" Canvas.Top="92" Name="OK" Click="OK_Click" Canvas.Left="46"/>
+        <TextBlock Text="Settings for New case Method" Canvas.Top="10" Canvas.Left="36"/>
+        <Button Content="Cancel" Width="60" Canvas.Left="136" Canvas.Top="92" IsCancel="True"/>
+        <ComboBox Width="206" Canvas.Top="45" Canvas.Right="20" SelectedIndex="0" Name="newCaseCombobox" Canvas.Left="19">
+            <ComboBoxItem Content="Upper all char"/>
+            <ComboBoxItem Content="Lower all char"/>
+            <ComboBoxItem Content="Upper the first char of words"/>
+        </ComboBox>
+    </Canvas>
+</Window>

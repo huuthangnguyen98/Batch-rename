@@ -1,0 +1,25 @@
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\bin\Release\Batch Rename.exe.config
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\bin\Release\Batch Rename.exe
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\bin\Release\Batch Rename.pdb
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\DuplicationDialog.g.cs
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\editPresetList.g.cs
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\MainWindow.g.cs
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\MoveDialog.g.cs
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\NewCaseDialog.g.cs
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\PresetDialog.g.cs
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\ReplaceDialog.g.cs
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\App.g.cs
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\Batch Rename_MarkupCompile.cache
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\Batch Rename_MarkupCompile.lref
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\DuplicationDialog.baml
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\editPresetList.baml
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\MainWindow.baml
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\MoveDialog.baml
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\NewCaseDialog.baml
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\PresetDialog.baml
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\ReplaceDialog.baml
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\Batch Rename.g.resources
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\Batch_Rename.Properties.Resources.resources
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\Batch Rename.csproj.GenerateResource.cache
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\Batch Rename.exe
+D:\College\HK1-1920\Windows Programing\Project 1\Batch Rename\Batch Rename\obj\Release\Batch Rename.pdb

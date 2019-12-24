@@ -1,0 +1,15 @@
+﻿<Window x:Class="Batch_Rename.PresetDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Batch_Rename"
+        mc:Ignorable="d"
+        Title="Save Preset" Width="276.5" Height="129.714" WindowStartupLocation="CenterScreen">
+    <Canvas Background="LightYellow" >
+        <TextBox Width="175" Canvas.Top="24" Canvas.Left="80" Name="nameTextBox"/>
+        <Label Content="Preset name" Canvas.Top="16"/>
+        <Button Content="OK" Width="60" IsDefault="True" Canvas.Left="112" Canvas.Top="55" Name="Ok" Click="Ok_Click"/>
+        <Button Content="Cancel" Width="60" IsCancel="True" Canvas.Left="195" Canvas.Top="55"/>
+    </Canvas>
+</Window>
